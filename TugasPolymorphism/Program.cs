@@ -1,5 +1,10 @@
 ﻿namespace KelompokBuahSemangka;
 
+// Kelompok:
+// 1. Zahran Zaidan N
+// 2. Najwa Istighfara
+// 3. Daffan Zain Pratama
+
 // `Semangka` adalah class base atau parent (class yang original)
 class Semangka
 {
